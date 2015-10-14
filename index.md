@@ -2,6 +2,7 @@
 title: Microsoft.IoT.Devices
 layout: page
 ---
+{{ site.description }}
 
 [Supported Devices](devices.md)
 
