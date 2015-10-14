@@ -1,6 +1,6 @@
 ---
 title: Supported Devices
-layout: post
+layout: pages
 ---
  
 # Supported Devices #
