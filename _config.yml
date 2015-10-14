@@ -1,5 +1,5 @@
-name: Tactile Theme
+name: Microsoft.IoT.Devices
 markdown: redcarpet
-pygments: true
+highlighter: true
 permalink: pretty
 baseurl: /iot-devices
