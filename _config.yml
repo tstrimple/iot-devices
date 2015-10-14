@@ -1,5 +1,5 @@
 name: Microsoft.IoT.Devices
 markdown: redcarpet
-highlighter: true
+pygments: true
 permalink: pretty
 baseurl: /iot-devices
