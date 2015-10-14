@@ -9,9 +9,6 @@ The **Microsoft.IoT.Devices** library supports hundreds of devices. Some devices
 ## Specialized ##
 This section covers specialized devices and the classes that support them.
 
-
-
-
 ## Generic ##
 This section covers generalized devices.
 
